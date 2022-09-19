@@ -1,2 +1,2 @@
-# Projet_OCR
+# Projets_OCR
 Projets professionnalisants OCR
